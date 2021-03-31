@@ -1,1 +1,3 @@
 Testando atualização do clone
+author:  Joede
+version: 1.0 
